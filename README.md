@@ -1,1 +1,1 @@
-# DS Android App Templat
+# DS Android App Template
